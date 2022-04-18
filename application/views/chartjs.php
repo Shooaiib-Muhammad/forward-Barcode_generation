@@ -27,7 +27,7 @@ if(!($this->session->has_userdata('user_id'))){
   <script src="https://cdn.jsdelivr.net/npm/pouchdb@6.4.3/dist/pouchdb.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
- 
+  <title>test</title>
   <title>Calendar</title>
   <style>
  @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
